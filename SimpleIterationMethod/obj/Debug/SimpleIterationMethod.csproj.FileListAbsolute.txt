@@ -1,0 +1,6 @@
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/bin/Debug/SimpleIterationMethod.exe
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/bin/Debug/SimpleIterationMethod.pdb
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/obj/Debug/SimpleIterationMethod.csproj.AssemblyReference.cache
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/obj/Debug/SimpleIterationMethod.csproj.CoreCompileInputs.cache
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/obj/Debug/SimpleIterationMethod.exe
+/Users/yurii/RiderProjects/SimpleIterationMethod/SimpleIterationMethod/obj/Debug/SimpleIterationMethod.pdb
